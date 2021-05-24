@@ -2,7 +2,7 @@ import React, { Component } from 'react'
 import CatFooter from './components/CatFooter'
 import CatHeader from './components/CatHeader'
 import Octocat from './components/Octocat'
-import Cats from './sdg-octodex.json'
+import Cats from './octocats.json'
 
 export class App extends Component {
   render() {
